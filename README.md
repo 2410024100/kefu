@@ -1,4 +1,4 @@
-# chatroom-vue
+# 技术栈node+express+vue+socket+axios
 一个简单的多人聊天室。基于vue和node+Socket.IO。更多功能正在开放中……
 
 ## 如何运行
