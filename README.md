@@ -1,13 +1,13 @@
 # 技术栈node+express+vue+socket+axios
-一个简单的多人聊天室。基于vue和node+Socket.IO。更多功能正在开放中……
+一个简单的多人聊天室。
 
 ## 如何运行
 下载项目
 ```
- git clone https://github.com/lss5270/chatroom-vue.git
+ git clone https://github.com/2410024100/kefu.git
 ```
 
-进入到chatroom-vue目录安装依赖包
+进入到目录安装依赖包
 ```
  npm install
 ```
@@ -17,7 +17,7 @@
  npm run server
 ```
 
-另起窗口（注意：是另起窗口！），启动前端开发服务（称这个终端为B终端），在chatroom-vue目录里执行以下命令，成功执行后，在浏览器输入访问地址`http://localhost:8080`
+另起窗口（注意：是另起窗口！），启动前端开发服务（称这个终端为B终端），在目录里执行以下命令，成功执行后，在浏览器输入访问地址`http://localhost:8080`
 ```
  npm run dev
 ```
